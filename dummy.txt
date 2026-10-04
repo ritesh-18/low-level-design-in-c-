@@ -1,0 +1,2 @@
+This is a dummy file created for testing file handling in C++.
+This is an appended content.
